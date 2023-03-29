@@ -1,7 +1,8 @@
 # ProofReading
 
-Usage
+## Usage
 
+setup (only do once per session)
 ```
 > source setup.sh
 ```
