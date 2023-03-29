@@ -20,7 +20,7 @@ To ignore a given suggestion, add the suggestion hash to the .prI
 
 # Links
 
-https://twiki.cern.ch/twiki/bin/viewauth/CMS/Internal/PubPreparation
+https://twiki.cern.ch/twiki/bin/viewauth/CMS/Internal/PubGuidelines
 
 https://docs.google.com/forms/d/e/1FAIpQLSc6fYKz6bnDXkWObLDc6bIjRYMrxTV5CZGc1lBlSmDQAdWhhg/viewform
 
