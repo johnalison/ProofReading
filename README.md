@@ -6,6 +6,11 @@ Usage
 > source setup.sh
 ```
 
+Do the proof reading
+```
+py proofRead.py ../*tex
+```
+
 To ignore a given suggestion, add the suggestion hash to the .prI
 
 ```
