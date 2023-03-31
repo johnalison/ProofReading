@@ -1,0 +1,44 @@
+$t$-channel processes
+$x$-$y$ plane
+anti-\kt algorithm
+b-tagged jet
+beam-gas events
+bin-by-bin correction
+centre-of-mass energy
+charged-hadron multiplicity
+charged-pion mass
+data-taking period
+double-muon trigger
+double-parton scattering	 	 
+event-by-event fluctuations
+final-state radiation
+four-momentum
+fourth-generation quarks
+gas-ionization detector
+global-muon trigger
+hard-scattered partons
+high-\pt jets
+initial-state radiation
+least-squares fit
+matrix-element generator
+minimum-bias event
+minimum-ionizing particle
+multiple-parton interactions
+new-physics model
+next-to-leading order
+next-to-leading-order calculation
+particle-flow algorithm
+parton-level data
+proton-proton collisions
+pseudo-experiments
+quark-gluon scattering
+root-mean-square	 
+short-range correlations
+signal-to-background ratio
+two-dimensional histogram	 
+underlying-event data
+signal-to-noise ratio
+order-of-magnitude estimate
+tag-and-probe procedure
+one-to-one correspondence
+turn-on
