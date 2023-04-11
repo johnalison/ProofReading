@@ -31,7 +31,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSc6fYKz6bnDXkWObLDc6bIjRYMrxTV5CZGc1lBl
    * which /
    * If you are giving a number as a percentage with an uncertainty in the text, use parentheses around the number and its uncertainty. Example: "The muon efficiency is $(94.3 \pm 1.3)\%$."
    * If you are giving a range of percentages, use "2--3%" not "2%--3%". Notice the use of the double hyphen to indicate a range, as discussed in the section on hyphens.
-
+   * veto "ly-"
 
 
 Not added:
@@ -66,3 +66,5 @@ Do not start a sentence with a symbol.
 
 Refer to your result as a concrete observable
 Do not use expressions like "Measurements of \ttbar production are obtained..." or "Limits on the pair production of squarks and gluinos are derived..." because "production" is not an observable. Instead, refer to a concrete observable such as a cross section, a polarization, etc. If it is appropriate to be more generic, you could refer to "properties." Thus, it would be correct to state "Measurements of \ttbar production properties are obtained ..." or "Limits on the cross sections for the pair production of gluinos and squarks are derived..."
+
+

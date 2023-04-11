@@ -24,6 +24,7 @@ $t$ channel
 Monte Carlo
 W boson	 
 cross section
+cross sections
 invariant mass
 phase space
 single top
@@ -35,3 +36,5 @@ problem solving
 data taking
 one half
 two thirds
+
+
